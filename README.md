@@ -94,7 +94,7 @@ We decided to use OpenAI Whisper because it is a powerful natural language proce
 | Gabriel Kunzer | https://github.com/johnnyknoxville1337 |
 | Irfan Mansuri | https://www.linkedin.com/in/irfan-mansuri-130687180/ |
 | Jesús Vélez Santiago | https://github.com/jvelezmagic |
-| NAME | https://github.com/LINK |
+| Alejo Escalante | https://github.com/alejoes |
 
 ## Participating
 [chatgpt-api-and-whisper-api-global-hackathon](https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon)
