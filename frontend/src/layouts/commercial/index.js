@@ -6,7 +6,6 @@ import Card from "@mui/material/Card";
 import SoftBox from "components/SoftBox";
 import SoftTypography from "components/SoftTypography";
 import StatsCard from "examples/Cards/StatisticsCards/StatsCard";
-import piechartConfig from "examples/Charts/PieChart/configs";
 import Icon from "@mui/material/Icon";
 // Soft UI Dashboard React examples
 import DashboardLayout from "examples/LayoutContainers/DashboardLayout";

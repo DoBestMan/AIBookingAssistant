@@ -44,6 +44,19 @@ const colors = {
     focus: "#000000",
   },
 
+  first: {
+    main: "#00040f",
+  },
+
+  second: {
+    main: "#00f6ff",
+  },
+
+  third: {
+    main: "rgba(9, 151, 124, 0.1)",
+  },
+
+
   primary: {
     main: "#cb0c9f",
     focus: "#ad0a87",
